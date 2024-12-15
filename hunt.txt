@@ -1,0 +1,1 @@
+"You've found the first clue! To uncover the next clue, you'll need to use `git diff HEAD~1 HEAD`"
